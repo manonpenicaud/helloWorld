@@ -1,2 +1,2 @@
 # helloWorld
-Prise en mains de Git et GitHub
+Let's try Git and GitHub
